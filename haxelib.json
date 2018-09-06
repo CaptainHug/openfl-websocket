@@ -10,6 +10,6 @@
   "releasenote": "Use haxe-ws library internally to avoid duplicate functionality",
   "contributors": ["soywiz"],
   "dependencies": {
-    "haxe-ws": "0.0.4"
+    "haxe-ws": "1.0.5"
   }
 }
